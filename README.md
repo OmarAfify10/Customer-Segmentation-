@@ -4,7 +4,7 @@ In this Project we work witha dataset which contains information about the Price
 https://mybinder.org/v2/gh/OmarAfify10/Customer-Segmentation-/HEAD
 
 Execution 
-Use the binder link above to run the Project .
+Use the binder link above to run the Customer.Seg.ipynb .
 
 Results
 
