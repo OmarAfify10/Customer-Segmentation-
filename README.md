@@ -9,4 +9,3 @@ Use the binder link above to run the Customer.Seg.ipynb .
 
 Results
 
-the Link for the Dataset on Kaggle https://www.kaggle.com/datasets/abhishekrp1517/online-retail-transactions-dataset
