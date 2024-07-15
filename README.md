@@ -8,6 +8,7 @@ In this Project we work witha dataset which contains information about the Price
 Use the binder link above to run the Customer.Seg.ipynb .
 
 # Results
+we made 3 Clusters (Customer ID , Unit Price ,Quantity) and used these clusters to know more information about each country .
 
 #Cluster 0 contains the majority of orders (378366 out of 541909), where the average Quantity value is at 10, and the average UnitPrice value is at 5.38. The median values of both variables are below the average values. This may indicate that most orders consist of a small number of items with a relatively high price.
 
